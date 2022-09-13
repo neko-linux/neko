@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Marine Traffic
+Comment=Use to connect the VPN with a simple GUI
+Exec=firefox https://www.marinetraffic.com
+Terminal=false
+Icon=marine-traffic
+Type=Application
+Categories=02 - Operations;
+GenericName=Marine Traffic

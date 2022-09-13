@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Vortexa
+Comment=Use to connect the VPN with a simple GUI
+Exec=firefox --new-window https://analytics.vortexa.com/ --window-size 800,600 -location center
+Terminal=false
+Icon=vortexa
+Type=Application
+Categories=01 - Analysis;02 - Operations;
+GenericName=Vortexa

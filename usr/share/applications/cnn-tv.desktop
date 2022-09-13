@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=CNN TV
+Comment=Use to connect the VPN with a simple GUI
+Exec=mpv --geometry=500+1000+1000 --force-window --no-border --on-all-workspaces https://h4.ustvgo.la/CNN/myStream/chunks.m3u8?nimblesessionid=257302119&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDEwOjIxOjI1IEFNJmhhc2hfdmFsdWU9c01yMERlNkNEM0NxZmdmbld4dTNVQT09JnZhbGlkbWludXRlcz0yNDA=
+Terminal=true
+Icon=bloomberg-tv
+Type=Application
+Categories=01 - Analysis
+GenericName=CNN TV

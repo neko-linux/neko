@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Panjiva
+Comment=Intelligence platform
+Exec=firefox --new-window https://panjiva.com/account/login --window-size 800,600 -location center
+Terminal=false
+Icon=panjiva
+Type=Application
+Categories=01 - Analysis;02 - Operations;
+GenericName=Panjiva

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Bloomberg TV
+Comment=Use to connect the VPN with a simple GUI
+Exec=mpv --geometry=500+1000+1000 --force-window --no-border --on-all-workspaces  https://youtu.be/dp8PhLsUcFE 
+Terminal=true
+Icon=bloomberg-tv
+Type=Application
+Categories=33 - News
+GenericName=Bloomberg TV
