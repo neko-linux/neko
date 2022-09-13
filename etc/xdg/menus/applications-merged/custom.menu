@@ -1,0 +1,43 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+    <Name>Applications</Name>
+      <Menu>
+        <Name>Network</Name>
+         <Exclude>
+           <Or>
+               <Category>X-IS24</Category>
+               <Filename>exo-mail-reader.desktop</Filename>
+               <Filename>exo-web-browser.desktop</Filename>
+           </Or>
+         </Exclude>
+      </Menu>
+      <Menu>
+        <Name>Usual Applications</Name>
+        <Directory>usual-applications.directory</Directory>
+        <Include>
+          <Category>Usual Applications</Category>
+        </Include>
+      </Menu>
+      <Menu>
+        <Name>01 - Analysis</Name>
+        <Directory>analysis.directory</Directory>
+        <Include>
+          <Category>01 - Analysis</Category>
+        </Include>
+      </Menu>
+      <Menu>
+        <Name>02 - Operations</Name>
+        <Directory>operations.directory</Directory>
+        <Include>
+          <Category>02 - Operations</Category>
+        </Include>
+      </Menu>
+      <Menu>
+        <Name>33 - News</Name>
+        <Directory>news.directory</Directory>
+        <Include>
+          <Category>33 - News</Category>
+        </Include>
+      </Menu>
+</Menu>
