@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>Di. Sep. 27 22:54:58 2022</dateModified>
+    </head>
+    <body>
+        <outline text="Commodity">
+            <outline text="Global Trade Review (GTR)" type="rss" htmlUrl="https://www.gtreview.com/" xmlUrl="https://www.gtreview.com/feed/"/>
+            <outline text="Commodities &amp; Energy Archives - Reuters News Agency" type="rss" htmlUrl="https://www.reutersagency.com" xmlUrl="https://www.reutersagency.com/feed/?best-sectors=commodities-energy&amp;post_type=best"/>
+            <outline text="Commodity News – Hellenic Shipping News Worldwide" type="rss" htmlUrl="https://www.hellenicshippingnews.com" xmlUrl="https://www.hellenicshippingnews.com/category/commodities/commodity-news/feed/"/>
+            <outline text="Tops – Hellenic Shipping News Worldwide" type="rss" htmlUrl="https://www.hellenicshippingnews.com" xmlUrl="https://www.hellenicshippingnews.com/tag/top-stories/feed/"/>
+            <outline text="Commodities" type="rss" htmlUrl="https://www.benzinga.com/views/taxonomy/term/36240" xmlUrl="https://www.benzinga.com/markets/commodities/feed"/>
+            <outline text="Public Eye Standpunkte" type="rss" htmlUrl="https://www.publiceye.ch/de/standpunkte" xmlUrl="https://www.publiceye.ch/de/rssBlog.xml"/>
+            <outline text="Latest News from S&amp;P Global Commodity Insights" type="rss" htmlUrl="https://www.spglobal.com/commodityinsights?src=rssheadlines1" xmlUrl="https://www.spglobal.com/platts/en/rss-feed/oil"/>
+            <outline text="Latest News from S&amp;P Global Commodity Insights" type="rss" htmlUrl="https://www.spglobal.com/commodityinsights?src=rssheadlines1" xmlUrl="https://www.spglobal.com/platts/en/rss-feed/petrochemicals"/>
+            <outline text="Latest News from S&amp;P Global Commodity Insights" type="rss" htmlUrl="https://www.spglobal.com/commodityinsights?src=rssheadlines1" xmlUrl="https://www.spglobal.com/platts/en/rss-feed/natural-gas"/>
+            <outline text="Shipping">
+                <outline text="Latest News from S&amp;P Global Commodity Insights" type="rss" htmlUrl="https://www.spglobal.com/commodityinsights?src=rssheadlines1" xmlUrl="https://www.spglobal.com/platts/en/rss-feed/shipping"/>
+            </outline>
+            <outline text="Agri">
+                <outline text="Latest News from S&amp;P Global Commodity Insights" type="rss" htmlUrl="https://www.spglobal.com/commodityinsights?src=rssheadlines1" xmlUrl="https://www.spglobal.com/platts/en/rss-feed/agriculture"/>
+            </outline>
+        </outline>
+    </body>
+</opml>
