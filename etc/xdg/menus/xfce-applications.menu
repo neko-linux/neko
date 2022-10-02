@@ -43,9 +43,9 @@
         <Menu>
             <Name>Screensavers</Name>
             <Directory>xfce-screensavers.directory</Directory>
-            <Include>
+            <Exclude>
                 <Category>Screensaver</Category>
-            </Include>
+            </Exclude>
         </Menu>
     </Menu>
 
