@@ -34,6 +34,20 @@
         </Include>
       </Menu>
       <Menu>
+        <Name>03 - DD</Name>
+        <Directory>due-diligence.directory</Directory>
+        <Include>
+          <Category>03 - DD</Category>
+        </Include>
+      </Menu>
+      <Menu>
+        <Name>04 - Information Gathering</Name>
+        <Directory>information-gathering.directory</Directory>
+        <Include>
+          <Category>04 - Information Gathering</Category>
+        </Include>
+      </Menu>
+      <Menu>
         <Name>33 - News</Name>
         <Directory>news.directory</Directory>
         <Include>
