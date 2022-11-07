@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=trademap.org
+Comment=indicators on export performance, international demand, alternative markets and competitive markets, as well as a directory of importing and exporting companies
+Exec=firefox --new-window https://www.trademap.org/Index.aspx --window-size 800,600 -location center
+Terminal=false
+Icon=trademap
+Type=Application
+Categories=01 - Analysis;03 - DD;
+GenericName=trademap.org
