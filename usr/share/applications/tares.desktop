@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Tares
+Comment=Customs clearance
+Exec=firefox --new-window https://xtares.admin.ch/tares/login/loginFormFiller.do?l=de --window-size 800,600 -location center
+Terminal=false
+Icon=tares
+Type=Application
+Categories=02 - Operations;
+GenericName=Tares
