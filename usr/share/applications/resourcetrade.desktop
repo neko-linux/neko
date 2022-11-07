@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=resourcetrade.earth
+Comment=Exploring Interdependencies in Global Resource Trade
+Exec=firefox --new-window https://resourcetrade.earth/ --window-size 800,600 -location center
+Terminal=false
+Icon=chatham-house
+Type=Application
+Categories=01 - Analysis;
+GenericName=resourcetrade.earth
