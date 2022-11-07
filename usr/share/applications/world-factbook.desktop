@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=The World Factbook
+Comment=Use to connect the VPN with a simple GUI
+Exec=firefox --new-window https://www.cia.gov/the-world-factbook/ --window-size 800,600 -location center
+Terminal=false
+Icon=world-factbook
+Type=Application
+Categories=04 - Information Gathering
+GenericName=World Factbook
