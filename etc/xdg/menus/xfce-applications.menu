@@ -43,9 +43,9 @@
         <Menu>
             <Name>Screensavers</Name>
             <Directory>xfce-screensavers.directory</Directory>
-            <Exclude>
+            <Include>
                 <Category>Screensaver</Category>
-            </Exclude>
+            </Include>
         </Menu>
     </Menu>
 
@@ -73,25 +73,25 @@
     <Menu>
         <Name>Development</Name>
         <Directory>xfce-development.directory</Directory>
-        <Exclude>
+        <Include>
             <Category>Development</Category>
-        </Exclude>
+        </Include>
     </Menu>
 
     <Menu>
         <Name>Education</Name>
         <Directory>xfce-education.directory</Directory>
-        <Exclude>
+        <Include>
             <Category>Education</Category>
-        </Exclude>
+        </Include>
     </Menu>
 
     <Menu>
         <Name>Games</Name>
         <Directory>xfce-games.directory</Directory>
-        <Exclude>
+        <Include>
             <Category>Game</Category>
-        </Exclude>
+        </Include>
     </Menu>
 
     <Menu>
